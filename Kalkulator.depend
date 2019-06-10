@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560131921 source:c:\users\konrad\desktop\zut\home\kalkulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
